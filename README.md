@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SchoolyB
 - 👀 I’m interested in ... Learning the ins and outs of front-end develpment
-- 🌱 I’m currently learning ... HTML5 and CSS
+- 🌱 I’m currently learning ... Javascript
 - 📫 How to reach me ... I can be reached vie Twitter @MarshallBCodes or via email: MarshallBCodes@gmail.com
 
 <!---
