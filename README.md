@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SchoolyB
-- 👀 I’m interested in ... Learning the ins and outs of web develpment
-- 🌱 I’m currently learning ... Javascript
+- 👋 Hi, I’m @SchoolyB a.k.a Marshall
+- 👀 I’m interested in ... Learning the ins and outs of software/web develpment
+- 🌱 I’m currently learning ... Everything I Can!!
 - 📫 How to reach me ... I can be reached vie Twitter @MarshallBCodes or via email: MarshallBCodes@gmail.com
 
 <!---
