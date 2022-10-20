@@ -2,4 +2,4 @@
 - 🛠 Currently wokring on Husk: A Linux OS based Shell written entirely in Python 
 - 👀 I’m interested in ... Learning the ins and outs of software/web develpment
 - 🌱 I’m currently learning ... ALOT.
-- 📫 How to reach me ... I can be reached via Twitter @MarshallBCodes or via email: MarshallBCodes@gmail.com
+- 📫 How to reach me ... I can be reached via Twitter https://twitter.comMarshallBCodes or via email: MarshallBCodes@gmail.com
