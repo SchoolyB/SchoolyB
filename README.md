@@ -1,5 +1,5 @@
 - 👋🏾 Hi, I’m Marshall a.k.a Schooly
-- 🛠 Currently wokring on [Husk](https://github.com/SchoolyB/Husk): A Linux OS based Shell written entirely in Python 
+- 🛠 Currently working on [Husk](https://github.com/SchoolyB/Husk): A Linux OS based Shell written entirely in Python 
 - 👀 I’m interested in ... Learning the ins and outs of software/web develpment
 - 🌱 I’m currently learning ...ALOT.
 - 📫 How to reach me ...I can be reached via [Twitter](https://twitter.com/MarshallBCodes) or [email](MarshallBCodes@gmail.com)
