@@ -9,13 +9,13 @@
 - 🌱 I have less than one year of experience in programming but I'm learning a lot!  
   
 
-- 🛠️ Currently working on Husk: A Linux OS based Shell written entirely in Python  
+- 🛠️ Currently working on The International Data Matrix
   
 
-- 🤓 I’m interested in...Learning the ins and outs of software/web development  
+- 🤓 I’m interested in...Learning more about backend developement and compilers  
   
 
-- 📬 I can be reached via Twitter: https://twitter.com/MarshallBCodes or Email: marshallbcodes@gmail.com  
+- 📬 I can be reached via Twitter: https://twitter.com/MarshallBCodes or Email: mailto:marshallbcodes@gmail.com  
   
 
 <br/>  
