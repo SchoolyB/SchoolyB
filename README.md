@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Marshall B, a software development student currently working on project based learning.🛠️<br><br>🌱 I have less than one year of experience in programming but I'm learning a lot!<br><br>🛠️ Currently working on The International Data Matrix<br><br>🤓 I’m interested in...Learning more about backend developement and compilers<br><br>📬 I can be reached via Twitter: https://twitter.com/MarshallBCodes or Email: mailto:marshallbcodes@gmail.com
+I'm Marshall B, a software engineer currently working on project based learning.🛠️<br><br>🌱 I have less than one year of experience in programming but I'm learning a lot!<br><br>🛠️ Currently working on The International Data Matrix<br><br>🤓 I’m interested in...Learning more about backend developement and compilers<br><br>📬 I can be reached via Twitter: https://twitter.com/MarshallBCodes or Email: mailto:marshallbcodes@gmail.com
 
 
 ## 🌐 Socials:
