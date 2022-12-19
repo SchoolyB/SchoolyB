@@ -1,17 +1,3 @@
-
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.   OK  No thanks
-1 of 586
-(no subject)
-Inbox
-Marshall B <marshallbcodes@gmail.com>
-	
-9:15 PM (0 minutes ago)
-	
-to me
 # 💫 About Me:
 I'm Marshall B, a software development student currently working on project based learning.🛠️<br><br>🌱 I have less than one year of experience in programming but I'm learning a lot!<br><br>🛠️ Currently working on The International Data Matrix<br><br>🤓 I’m interested in...Learning more about backend developement and compilers<br><br>📬 I can be reached via Twitter: https://twitter.com/MarshallBCodes or Email: mailto:marshallbcodes@gmail.com
 
