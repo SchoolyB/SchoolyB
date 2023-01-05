@@ -2,7 +2,7 @@
 
 🛠️ Currently working on Plutus
 
-🤓 I’m interested in...Learning more about backend development and compilers
+🤓 I’m interested in...Learning more about backend development, compilers, and systems programming
 
 📬 I can be reached via Twitter: https://twitter.com/MarshallBCodes or Email: mailto:marshallbcodes@gmail.com
 
