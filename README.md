@@ -1,6 +1,6 @@
 # 💫About Me :
 
-🛠️ Currently working on Plutus
+🛠️ Currently working on Jest
 
 🤓 I’m interested in...Learning more about backend development, compilers, and systems programming
 
